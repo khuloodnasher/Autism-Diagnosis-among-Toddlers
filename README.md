@@ -52,6 +52,15 @@ Based on Quantitative Checklist for Autism in Toddlers (Q-CHAT) data provided by
 3- What are the most important features in diagnosing autism among children?
 
 
+### This project was collected over one tousand fifty four patients and 18 features were used
+
+
+### The percentage of babies shows the symptoms of autisim
+
+
+
+### The distribution of the target column
+
 
 
 
