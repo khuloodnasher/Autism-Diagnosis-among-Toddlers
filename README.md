@@ -36,3 +36,24 @@ A8: Would you describe your child's first word as:
 A9: Does your child use simple gestures (e.g.wave goodbye)?
 
 A10:Does your child stare at nothing with no apparent purpose?
+
+
+
+### Define The Problem
+Based on Quantitative Checklist for Autism in Toddlers (Q-CHAT) data provided by the ASD Tests app, we will try to develop a simple prediction model for toddlers to predict the probability of showing ASD traits so that their parents/guardians can consider taking steps early enough.
+
+
+
+### Important Questions
+1-What is good algorithm to diagnose autism?
+
+2- How can I improve my models’ accuracy?
+
+3- What are the most important features in diagnosing autism among children?
+
+
+
+
+
+
+
