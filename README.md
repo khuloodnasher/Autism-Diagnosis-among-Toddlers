@@ -1,7 +1,7 @@
 # Autism-Diagnosis
 
 ###  Diagnosing Autism Spectrum Disorder among Toddlers Using Machine Learning Techniques
-![](images/autism baby.jpg)
+![](images/autismbaby.jpg)
 ### Introduction
 #### Background
 
