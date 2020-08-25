@@ -1,6 +1,6 @@
 # Autism-Diagnosis
 
-###  Diagnosing Autism Spectrum Disorder Using Machine Learning Techniques
+###  Diagnosing Autism Spectrum Disorder among Toddlers Using Machine Learning Techniques
 
 ### Introduction
 #### Background
@@ -62,6 +62,19 @@ Based on Quantitative Checklist for Autism in Toddlers (Q-CHAT) data provided by
 ### The distribution of the target column
 
 
+### Investigating the correlation through plotting pearson method heatmap
+
+
+
+##### Interpreting the Heatmap of Correlation
+The features in orange colour shows high correlation, we can see all the 10 answers from A1 to A9 except A10 are highly correlated with Qchart10-score. Therefore, it is better to remove the Qchat coloumn from our feature list because it is going to mislead our results.
+
+
+
+
+
+
+In Toddlers, autism is nearly 2 times in males having jundice than in females.
 
 
 
